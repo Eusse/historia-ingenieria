@@ -1,15 +1,15 @@
 [
     {
         "uri": "start.html",
-        "id": "title",
-        "class": "step title",
+        "id": "inicio",
+        "class": "step inicio",
         "data": {
             "x": 0,
             "y": 0,
             "z": 0,
             "scale": 4,
             "rotate-x": 0,
-            "rotate-y": 250,
+            "rotate-y": 0,
             "rotate-z": 0
         }
     },
@@ -18,9 +18,9 @@
         "id": "prehistoria",
         "class": "step",
         "data": {
-            "x": 0,
+            "x": 3000,
             "y": 0,
-            "z": 250,
+            "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -32,13 +32,13 @@
         "id": "antiguedad",
         "class": "step",
         "data": {
-            "x": 6000,
+            "x": 3000,
             "y": 0,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 180
+            "rotate-y": 270,
+            "rotate-z": 0
         }
     },
     {
