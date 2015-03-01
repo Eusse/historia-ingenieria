@@ -9,8 +9,92 @@
             "z": 0,
             "scale": 4,
             "rotate-x": 0,
-            "rotate-y": 0,
+            "rotate-y": 250,
             "rotate-z": 0
+        }
+    },
+    {
+        "uri": "prehistoria.html",
+        "id": "prehistoria",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 250,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "antiguedad.html",
+        "id": "antiguedad",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 180
+        }
+    },
+    {
+        "uri": "medioevo.html",
+        "id": "medioevo",
+        "class": "step",
+        "data": {
+            "x": 9000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "modernidad.html",
+        "id": "modernidad",
+        "class": "step",
+        "data": {
+            "x": 12000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "actualidad.html",
+        "id": "actualidad",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "creditos.html",
+        "id": "creditos",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
         }
     }
 ]
