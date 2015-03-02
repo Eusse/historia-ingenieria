@@ -8,6 +8,16 @@
 .notes {
     display:none;
 }
+
+.step .date{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    font-style: italic;
+    font-size: 30px;
+    padding-right: 43px;
+    background: right center url('../img/clock.png') no-repeat;
+}
 .step h2 {
     font-size: 78px;
     font-weight: bold;
@@ -20,4 +30,9 @@
 }
 .step.inicio .logo{
     width: 100px;
+}
+
+.step#prehistoria p{
+    font-size: 30px;
+
 }
