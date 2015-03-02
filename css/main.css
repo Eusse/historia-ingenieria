@@ -64,3 +64,7 @@
 .step#actualidad img{
     margin-right: 30px;
 }
+
+.step#creditos ul{
+    font-size: 30px;
+}
